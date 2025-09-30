@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Amoeba Virus Awareness</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Amoeba Virus Awareness</h1>
+      <p>Understanding the hidden danger in stagnant water</p>
+    </header>
+
+    <main class="content">
+      <section class="explanation">
+        <h2>What is the Amoeba Virus?</h2>
+        <p>
+          The so-called "Amoeba Virus" refers to
+          <strong>Naegleria fowleri</strong>, a rare but deadly brain-eating
+          amoeba found in warm, stagnant freshwater environments such as ponds,
+          lakes, and hot springs. It enters the human body through the nose,
+          typically when a person is swimming or diving in contaminated water.
+        </p>
+
+        <p>
+          Once inside the body, the amoeba travels to the brain, where it causes
+          a condition known as
+          <strong>Primary Amebic Meningoencephalitis (PAM)</strong>. This
+          infection is almost always fatal, with a high mortality rate and rapid
+          progression of symptoms such as headache, fever, nausea, vomiting,
+          stiff neck, and seizures.
+        </p>
+
+        <p>
+          Naegleria fowleri is not harmful when swallowed, as stomach acid kills
+          it. The danger arises only when water carrying the amoeba enters the
+          nasal passages. Sadly, due to its fast-acting nature, PAM often
+          results in death within 5 to 7 days of symptom onset.
+        </p>
+
+        <p>
+          Awareness and prevention are the best defenses. Avoid swimming in
+          warm, still water, especially during hot weather, and never allow
+          water to enter your nose in such environments.
+        </p>
+      </section>
+
+      <section class="buttons">
+        <a href="prevention.html" class="btn">Learn Prevention</a>
+        <a href="page2.html" class="btn btn-secondary">Next Page</a>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025 Amoeba Awareness Project. Stay Safe. Stay Informed.</p>
+    </footer>
+  </body>
+</html>
