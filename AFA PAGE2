@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Amoeba Virus Prevention</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Prevention Tips</h1>
+      <p>How to protect yourself from Naegleria fowleri</p>
+    </header>
+
+    <main class="content">
+      <section class="explanation">
+        <h2>How to Prevent Infection</h2>
+
+        <ul class="prevention-list">
+          <li>
+            <strong>Avoid swimming</strong> in warm, stagnant, or poorly
+            maintained freshwater sources like lakes, ponds, and hot springs.
+          </li>
+
+          <li>
+            <strong>Use nose clips</strong> or hold your nose shut if you must
+            swim in freshwater, especially in warm weather.
+          </li>
+
+          <li>
+            <strong>Never stir up sediment</strong> in shallow, warm freshwater
+            — Naegleria fowleri thrives in disturbed sediments.
+          </li>
+
+          <li>
+            <strong>Keep pool water clean</strong> and well-chlorinated. Regular
+            maintenance kills harmful microorganisms.
+          </li>
+
+          <li>
+            <strong>Do not allow tap water</strong> to go up your nose during
+            religious rituals, nasal rinsing (e.g., neti pot), or while bathing.
+          </li>
+
+          <li>
+            <strong>Boil or filter water</strong> before using it for nasal
+            irrigation. Use distilled or sterile water only.
+          </li>
+
+          <li>
+            <strong>Educate others</strong> — spreading awareness is a powerful
+            form of prevention.
+          </li>
+        </ul>
+      </section>
+
+      <section class="buttons">
+        <a href="nasa.html" class="btn btn-secondary">← Back to Home</a>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025 Amoeba Awareness Project. Prevention is Protection.</p>
+    </footer>
+  </body>
+</html>
